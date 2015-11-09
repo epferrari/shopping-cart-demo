@@ -5,12 +5,12 @@ Open dist/index.html from this repository and start shopping! Select delicious-l
 
 If you're looking for a particular fruit, use the sort on in the upper left of the shop, or begin typing in the search field to filter the list of fruits. The filter will eliminate fruits whose name's don't match what you've typed.
 
-Ready to check out? Using the left hand nav menu or the shopping cart icon in the upper right, navigate to your shopping cart. Change the quantity of your selection right from the cart, and tap "Update Cart" to see your total update. In this alpha version, the "Update" button is linked only to its line item, so make sure you tap it after changing a quantity. This functionality is slated to change in the next release.
+Ready to check out? Using the left hand nav menu or the shopping cart icon in the upper right, navigate to your shopping cart. Change the quantity of your selection right from the cart, and tap "Update Cart" to see your total update. In this alpha version, the "Update" button is linked only to its line item, so make sure you tap it after changing a quantity. This functionality is wonky, and is slated to change in the next release.
 
 ### Install
 
 - Clone this repo locally.
-- From your local project, `npm install` to download dependencies from
+- From your local project, `npm install` to download dependencies
 
 ### Development
 
@@ -22,7 +22,7 @@ Ready to check out? Using the left hand nav menu or the shopping cart icon in th
 ### Production
 
 - `npm run dist` to minify and concatenate your project into the `dist` directory
-- will not open or live reload webpage page
+- will not open or live reload webpage
 
 ### Stop
 
