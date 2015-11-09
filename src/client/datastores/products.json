@@ -1,0 +1,167 @@
+[
+    {
+        "id": 1,
+        "title": "African cucumber",
+        "price": 1.45
+    },
+    {
+        "id": 2,
+        "title": "Atemoya",
+        "price": 0.95
+    },
+    {
+        "id": 3,
+        "title": "Black Sapote",
+        "price": 2.15
+    },
+    {
+        "id": 4,
+        "title": "Calamondins",
+        "price": 3.45
+    },
+    {
+        "id": 5,
+        "title": "Canistel",
+        "price": 0.50
+    },
+    {
+        "id": 6,
+        "title": "Dragon Fruit",
+        "price": 1.95
+    },
+    {
+        "id": 7,
+        "title": "Durian",
+        "price": 1.55
+    },
+    {
+        "id": 8,
+        "title": "Feijoa",
+        "price": 2.05
+    },
+    {
+        "id": 9,
+        "title": "Horned Melon",
+        "price": 3.99
+    },
+    {
+        "id": 10,
+        "title": "Jabotacaba",
+        "price": 2.15
+    },
+    {
+        "id": 11,
+        "title": "Jackfruit",
+        "price": 0.85
+    },
+    {
+        "id": 12,
+        "title": "Kiwi",
+        "price": 3.10
+    },
+    {
+        "id": 13,
+        "title": "Kumquat",
+        "price": 1.45
+    },
+    {
+        "id": 14,
+        "title": "Lychee",
+        "price": 4.95
+    },
+    {
+        "id": 15,
+        "title": "Mangosteen",
+        "price": 1.05
+    },
+    {
+        "id": 16,
+        "title": "Miracle fruit",
+        "price": 1.05
+    },
+    {
+        "id": 17,
+        "title": "Monstera Deliciouso",
+        "price": 3.99
+    },
+    {
+        "id": 18,
+        "title": "Passion Fruit",
+        "price": 1.65
+    },
+    {
+        "id": 19,
+        "title": "Persimmon",
+        "price": 1.75
+    },
+    {
+        "id": 20,
+        "title": "Physalis",
+        "price": 1.85
+    },
+    {
+        "id": 21,
+        "title": "Pomegranate",
+        "price": 1.95
+    },
+    {
+        "id": 22,
+        "title": "Pummelo",
+        "price": 2.05
+    },
+    {
+        "id": 23,
+        "title": "Rambutan",
+        "price": 2.05
+    },
+    {
+        "id": 24,
+        "title": "Rollinia",
+        "price": 3.05
+    },
+    {
+        "id": 25,
+        "title": "Salak",
+        "price": 4.05
+    },
+    {
+        "id": 26,
+        "title": "Santol",
+        "price": 4.65
+    },
+    {
+        "id": 27,
+        "title": "Sapodilla",
+        "price": 1.45
+    },
+    {
+        "id": 28,
+        "title": "Star apple",
+        "price": 0.85
+    },
+    {
+        "id": 29,
+        "title": "Star fruit",
+        "price": 3.65
+    },
+    {
+        "id": 30,
+        "title": "Sugar apple",
+        "price": 1.85
+    },
+    {
+        "id": 31,
+        "title": "Velvet apple",
+        "price": 2.05
+    },
+    {
+        "id": 32,
+        "title": "Wax jambu",
+        "price": 3.49
+    },
+    {
+        "id": 33,
+        "title": "White sapote",
+        "price": 0.89
+    }
+]
