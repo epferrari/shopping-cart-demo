@@ -1,5 +1,5 @@
 import mui from 'material-ui';
-import Context from 'react-context-utility';
+import Context from '@epferrari/react-context-utility';
 
 /* Material UI Theme stuffs
 /*****************************/

@@ -3,7 +3,7 @@ import {Grid,Row,Col} from 'react-bootstrap';
 import actions from '../actions/cartActions.js';
 import products from '../datastores/products.json';
 import {Paper,GridList,GridTile,FloatingActionButton,Snackbar,DropDownMenu,TextField} from 'material-ui';
-import FontIcon from 'react-fa-icon';
+import FontIcon from '@epferrari/react-fa-icon';
 import Promise from 'bluebird';
 import axios from 'axios';
 import {chain,find} from 'lodash';

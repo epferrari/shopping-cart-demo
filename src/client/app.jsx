@@ -24,7 +24,7 @@ import appContext
 	from './contexts';
 
 import FontIcon
-	from 'react-fa-icon';
+	from '@epferrari/react-fa-icon';
 
 import cartStore
 	from './datastores/cartStore.js';
